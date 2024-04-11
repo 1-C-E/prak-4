@@ -7,7 +7,7 @@ import Navbar from "~/components/navbar.vue";
   <div>
     <navbar/>
     <div >
-      <div class="text">о на с</div>
+      <div class="text">О нас</div>
     </div>
   </div>
 </template>
@@ -20,6 +20,5 @@ import Navbar from "~/components/navbar.vue";
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
-
 }
 </style>

@@ -1,13 +1,13 @@
 <template>
   <div class="navigation">
-    <nuxt-link to="/" class="link"> домоооооой</nuxt-link>
+    <nuxt-link to="/" class="link"> домой</nuxt-link>
     <div class="container">
 
-      <nuxt-link to="/about_us" class="link">онас</nuxt-link>
+      <nuxt-link to="/about_us" class="link">о нас</nuxt-link>
 
-      <nuxt-link to="product" class="link">прукдты</nuxt-link>
+      <nuxt-link to="product" class="link">продукты</nuxt-link>
 
-      <nuxt-link to="settings" class="link">настойки</nuxt-link>
+      <nuxt-link to="settings" class="link">настройки</nuxt-link>
     </div>
   </div>
 
@@ -17,7 +17,9 @@
 .navigation {
   display: flex;
   justify-content: space-between;
+  margin-top: 50px;
 }
+
 .link {
   border-width: 2px;
   margin-left: 50px;

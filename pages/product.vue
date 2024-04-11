@@ -6,7 +6,7 @@ import Navbar from "~/components/navbar.vue";
 <template>
   <div>
     <navbar/>
-    <div class="text">прукдты</div>
+    <div class="text">Продукт</div>
   </div>
 </template>
 

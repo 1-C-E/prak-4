@@ -1,7 +1,7 @@
 <template>
   <div>
     <navbar/>
-    <div class="text">настойки)))</div>
+    <div class="text">Настройки</div>
   </div>
 </template>
 
